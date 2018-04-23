@@ -2,5 +2,5 @@
 
 HapticFan.ino for the Arduino code.
 
-Pictures for detailed images of the circuitry. 
+Photos for detailed images of the circuitry. 
 
